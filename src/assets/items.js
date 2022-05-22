@@ -15,46 +15,27 @@ const items = [{
 },
 {
     "title": "GitHub",
-    "subtitle": "@heysagnik | 🏠 of my open-source projects",
+    "subtitle": "@miloooo | 🏠 of my open-source projects",
     "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
+    "link": "https://github.com/killersparrow0" //Github Profile link
 },
 {
     "title": "Instagram",
-    "subtitle": "@heysagnik | Hub of my awesome 😎 pics",
+    "subtitle": "@miloooooooooo_5 | Hub of my awesome 😎 pics",
     "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
+    "link": "https://instagram.com/miloooooooooo_5" //instagram profile link 
 },
 {
     "title": "Twitter",
-    "subtitle": "@heysagnik | Don't forget to follow me 😉",
+    "subtitle": "@Milasoffl | Don't forget to follow me 😉",
     "image": twitter,
-    "link": "https://twitter.com/heysagnik"// twitter profile link 
-},
-{
-    "title": "Apps",
-    "subtitle": "Hub of my awesome 🔥 Apps",
-    "image": appstore,
-    "link": "#"//
-},
-{
-    "title": "YouTube",
-    "subtitle": "CODER SAGNIK | Official channel of mine",
-    "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
-},
-
-{
-    "title": "Dribbble",
-    "subtitle": "@virtuonic | Hub to the Shots of my 😎 apps ",
-    "image": dribbble,
-    "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
+    "link": "https://twitter.com/Milasoffl"// twitter profile 
 },
 {
     "title": "Telegram",
-    "subtitle": "@heysagnik | Chat with me instantly, Don't hesitate! ",
+    "subtitle": "@Tg-group | Chat with me instantly, Don't hesitate! ",
     "image": telegram,
-    "link": "https://telegram.me/heysagnik" //Telegram Pofile 
+    "link": "https://telegram.me/movie_ott" //Telegram Pofile 
 }]
 
 export default items
